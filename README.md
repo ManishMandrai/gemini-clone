@@ -2,7 +2,7 @@
 
 Live Link - https://gemini-clone-ashen-three.vercel.app/
 
-<img ![Screenshot 2024-11-02 103110](https://github.com/user-attachments/assets/55591bf4-0446-4bea-b537-bb4dc4fdcd51) width="300"/>
+<img src="https://github.com/user-attachments/assets/55591bf4-0446-4bea-b537-bb4dc4fdcd51" width="300"/>
 
 
 
@@ -22,9 +22,9 @@ Ensure you have the following installed on your system:
 
 ### Installation
 
-1. **Clone the repository**:
+**Clone the repository**:
    ```bash
-https://github.com/ManishMandrai/gemini-clone.git
+   git clone https://github.com/ManishMandrai/gemini-clone.git
 
 npm install
 
